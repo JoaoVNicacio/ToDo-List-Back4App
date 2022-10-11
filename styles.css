@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;1,400;1,700&display=swap');
+
+body{
+    background-image: url(https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-42312.jpg?w=2000);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+}
+
+button {
+    width: 25%;
+    padding: 0.2%;
+    margin-left: 2%;
+    border-radius: 20px;
+    font-family: 'Space Mono', monospace;
+}
+
+li{
+    margin: 1%;
+}
+
+input{
+    width: 25%;
+    padding: 0.2%;
+    margin-left: 2%;
+    border-radius: 20px;
+    font-family: 'Space Mono', monospace;
+    padding: 0.5%;
+    border-color: #000;
+}
+
+hr{
+    border-color: #000;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.to-do {
+    text-decoration: none;
+}
+
